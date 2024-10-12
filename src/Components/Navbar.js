@@ -31,14 +31,3 @@ Navbar.propTypes = {
   mode: PropTypes.string.isRequired,
   toggleMode: PropTypes.func.isRequired,
 };
-
-      </div>
-    </nav>
-  )
-}
-
-// PropTypes for type checking
-Navbar.propTypes = {
-  mode: PropTypes.string.isRequired,
-  toggleMode: PropTypes.func.isRequired,
-};
